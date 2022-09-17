@@ -7,4 +7,8 @@ public class C4 {
     public void method1(){
 
     }
+
+    public void methodIssue6 () {
+
+    }
 }
