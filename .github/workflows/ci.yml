@@ -1,9 +1,9 @@
-name: DevOps
+name: CI
 on:
   push:
     branches: ['develop', 'release-*']
 jobs:
-  devops:
+  ci:
     name: Test - Unit & Integration
     runs-on: ubuntu-latest # macos-latest macos-11 windows-2019 ubuntu-20.04
     steps:
