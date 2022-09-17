@@ -2,4 +2,5 @@
 ## Ingeniería Web: Visión General (IWVG) DevOps
 > Este proyecto es una Plantilla de apoyo docente de la asignatura.
 
-Cambio desde git en la rama remoto
+## Badges
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=SusanaGonzalezPereira_susana-devops&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=SusanaGonzalezPereira_susana-devops)
