@@ -18,7 +18,7 @@ jobs:
         if: success() # always() failure() success()
         run: >
           mvn -B verify -DskipTests sonar:sonar
-          -Dsonar.projectKey=susana-devops
+          -Dsonar.projectKey=SusanaGonzalezPereira_susana-devops
           -Dsonar.organization=susanagonzalezpereira
           -Dsonar.host.url=https://sonarcloud.io
           -Dsonar.login=$SONAR_TOKEN
