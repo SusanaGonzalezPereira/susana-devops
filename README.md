@@ -3,3 +3,5 @@
 > Este proyecto es una Plantilla de apoyo docente de la asignatura.
 
 Cambio en la rama remota de develop
+
+Cambio local issue#7
